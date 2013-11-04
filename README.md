@@ -47,4 +47,6 @@ If a Makefile turns out to be necessary, I'll write it, but now I want to keep e
 1. End stdin when `CTRL-D` is pressed. (The conventional way to end input but not supported yet)
 2. Handle redirection and pipe for subcommand.
 
-I think it is an useful tool but I don't have much time to improve it. Your contribution is really welcome!
+## Contribute
+
+I think it is an useful tool but I don't have much time to improve it. **Your contribution is really welcome!**
